@@ -1,5 +1,4 @@
 # Photo-AM
-
 Photo-AM is a photography portfolio website designed to showcase beautiful images and professional photography services. This project is built using HTML, CSS, JavaScript, and SASS.
 
 ## Features
